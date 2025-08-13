@@ -1,10 +1,10 @@
 # Automation-Bot-for-typing-website-Typewriter
-I made this bot with the help of Gemini and ChatGPT on the base of patrickcerny´s bot (https://github.com/patrickcerny/typewriterBot) as a test as to what is possible to code with ai.
+I made this bot on the base of patrickcerny´s bot (https://github.com/patrickcerny/typewriterBot).
 
 
 
 How to Use: 
-1. Paste this Python Script into VS Code for example and save it as typewriterbot.py
+1. Paste this Python Script into VS Code for example and save it as typewriterbot.py or just download the raw file.
    
 2. Download the batch file start_typewriter.bat and save it alongside to the typewriterbot.py in an empty folder.
    
