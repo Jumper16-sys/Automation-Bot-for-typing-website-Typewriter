@@ -1,5 +1,5 @@
 # Automation-Bot-for-typing-website-Typewriter
-I made this bot on the base of patrickcerny´s bot (https://github.com/patrickcerny/typewriterBot).
+I made this bot with the help of ChatGPT on the base of patrickcerny´s bot (https://github.com/patrickcerny/typewriterBot).
 
 
 
